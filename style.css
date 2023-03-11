@@ -1,0 +1,18 @@
+h1
+{
+	color: red; 
+    background-color: rgba(240, 248, 255, 0.75);
+	font-size: 40px;
+    color: #f5b146;
+}
+.body_background {
+	background-image: url("bg1.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+#myCanvas{
+	border-width: 10px;
+	background-color: white;
+	border-style: ridge;
+}
